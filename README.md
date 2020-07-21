@@ -17,7 +17,9 @@ Hi there 👋
 
 ### ✨ _Section In Progress_ ✨
 
-<img alt="micheeel" title="micheeel" src="./img/profile.jpg" style="border-radius: 50% !important; overflow: hidden; background-color: #e1e4e8 !important; border: 1px solid #e1e4e8 !important;"/>
+<!-- div style="border-radius: 50% !important; overflow: hidden; background-color: #e1e4e8 !important; border: 1px solid #e1e4e8 !important;" -->
+![micheeell](./img/profile.jpg)
+<!-- /div -->
 
 - 🔭 working on my side project
 - 🌱 learning new programming languages
