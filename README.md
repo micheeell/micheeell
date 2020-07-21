@@ -17,7 +17,7 @@ Hi there 👋
 
 ### ✨ _Section In Progress_ ✨
 
-<img alt="micheeell" style="border-radius: 50% !important; overflow: hidden; background-color: #e1e4e8 !important; border: 1px solid #e1e4e8 !important;" src="/micheeell/micheeell/raw/master/img/profile.jpg"/>
+<img alt="micheeell" style="border-radius: 50% !important; overflow: hidden; background-color: #e1e4e8 !important; border: 1px solid #e1e4e8 !important;" src="https://raw.githubusercontent.com/micheeell/micheeell/master/img/profile.jpg"/>
 
 - 🔭 working on my side project
 - 🌱 learning new programming languages
